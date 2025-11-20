@@ -1,0 +1,75 @@
+Computer Name,Username,Latest OS Supported,Last Inventory Update,Operating System,Hidden Admin Accounts,Model,FileVault Full Status,Shared Device,Managed,Nudge - Launch Agent,Last User,Make,Serial Number,Supervised,Last Check-in,Warranty Expiration
+SEM-2XM2KDJHCD,holmescs@vcu.edu,Sequoia*,11/19/25 15:29,macOS 15.7.2,root,"MacBook Pro (13-inch, 2018)",FileVault is On.,,Managed,Present,holmescs,Apple,C02XM2KDJHCD,Yes,11/19/25 18:38,1/1/70 0:00
+PRO-LL-M3,loaner 3,Sequoia*,9/5/25 15:06,macOS 15.6.1,root,"MacBook Pro (13-inch, 2018)",FileVault is On.,,Managed,Present,tluckritzmarq,Apple,C02Z65KXLVDC,Yes,9/5/25 17:15,1/1/70 0:00
+SEM-2DC1JUP3Y0,kcoldiron,Sequoia*,11/19/25 18:06,macOS 15.7.2,root,"MacBook Pro (13-inch, 2020, Two Thunderbolt 3 ports)",FileVault is On.,,Managed,Present,kcoldiron,Apple,C02DC1JUP3Y0,Yes,11/19/25 21:05,8/26/24 23:59
+VLS-FVFDL0A1Q05G,kadaspg,Sequoia*,3/18/25 11:12,macOS 15.1.1,root,"MacBook Pro (13-inch, M1, 2020)",FileVault is On.,,Managed,Present,kadaspg,Apple,FVFDL0A1Q05G,Yes,3/18/25 10:54,1/1/70 0:00
+PRO-BM-MP1,mcclellanbk,Tahoe*,9/15/25 20:11,macOS 15.6.1,root,"MacBook Pro (16-inch, 2019)",FileVault is On.,,Managed,Present,mcclellanbk,Apple,C02F995QMD6M,Yes,9/15/25 15:06,7/8/24 23:59
+STU-FVFF3BQWQ6L4,,Tahoe*,11/17/25 19:33,macOS 15.6.1,root,"MacBook Air (M1, 2020)",FileVault is On.,,Managed,Present,firthre,Apple,FVFF3BQWQ6L4,Yes,11/18/25 6:18,2/9/24 23:59
+STU-HIB-KLS-MP1,schusterkl,Tahoe*,11/19/25 18:16,macOS 15.7.1,root VCUJAMF,"MacBook Air (M1, 2020)",FileVault is On.,,Managed,Present,schusterkl,Apple,FVFFD1WSQ6L8,Yes,11/19/25 22:05,2/9/25 23:59
+STU-HIB-BP-MP2,bprince,Tahoe*,11/19/25 21:36,macOS 15.7.1,root VCUJAMF,"MacBook Air (M1, 2020)",FileVault is On.,,Managed,Present,bprince,Apple,FVFFD1VDQ6L8,Yes,11/19/25 22:09,2/9/25 23:59
+STU-HIB-AKB-MP1,abrown72,Tahoe*,11/19/25 14:23,macOS 15.7.1,root VCUJAMF,"MacBook Air (M1, 2020)",FileVault is On.,,Managed,Present,abrown72,Apple,FVFFD1YYQ6L8,Yes,11/19/25 21:36,2/9/25 23:59
+STU-HIB-AMK-MP2,amkane,Tahoe*,11/19/25 14:52,macOS 15.7.1,root VCUJAMF,"MacBook Air (M1, 2020)",FileVault is On.,,Managed,Present,amkane,Apple,FVFFD1TWQ6L8,Yes,11/19/25 22:05,2/9/25 23:59
+STU-FVFFD1UYQ6L8,dwyerl,Tahoe*,11/19/25 18:09,macOS 15.7.2,root,"MacBook Air (M1, 2020)",FileVault is On.,,Managed,Present,dwyerl,Apple,FVFFD1UYQ6L8,Yes,11/19/25 22:13,2/9/25 23:59
+STU-ALC-BJM-WP1,bjmctague,Tahoe*,11/19/25 13:39,macOS 15.7.2,root VCUJAMF,"MacBook Air (M1, 2020)",FileVault is On.,,Managed,Present,bjmctague,Apple,FVFFD1WAQ6L8,Yes,11/19/25 21:06,2/9/25 23:59
+STU-ALC-BRH-MP2,hallbr,Tahoe*,11/19/25 17:50,macOS 15.7.2,root VCUJAMF,"MacBook Air (M1, 2020)",FileVault is On.,,Managed,Present,hallbr,Apple,FVHDX3FEQ6L4,Yes,11/19/25 21:00,2/9/24 23:59
+PRO-LL-M1,kniskernem,Tahoe*,11/19/25 15:02,macOS 15.7.1,root,"MacBook Air (M1, 2020)",FileVault is On.,,Managed,Present,kniskernem,Apple,C02FJZQ3Q6L4,Yes,11/19/25 22:08,4/15/24 23:59
+PRO-LL-M9,larkinej,Sequoia*,8/28/25 16:01,macOS 15.6.0,root,"MacBook Pro (13-inch, M1, 2020)",FileVault is On.,Yes,Managed,Present,larkinej,Apple,C02FM4MSQ05P,Yes,8/28/25 16:00,5/5/24 23:59
+SEM-H4TGP1YU1254,shared station,Tahoe*,11/19/25 5:56,macOS 15.6.1,root,"iMac (24-inch, M1, 2021)","FileVault is Off.
+Deferred enablement appears to be active for user 'pro-admin'.",Yes,Managed,Present,penads,Apple,H4TGP1YU1254,Yes,11/19/25 20:55,1/26/25 23:59
+PRO-FS-M2 (2),sotiropoulosf,,2/2/25 18:22,macOS 14.7.4,,"MacBook Pro (14-inch, 2021)",,,Managed,,,Apple,MDQYWXMY7C,Yes,2/2/25 18:51,2/1/25 23:59
+SEM-H4TGP1UU1254,shared station,Tahoe*,11/18/25 22:57,macOS 15.5,root,"iMac (24-inch, M1, 2021)","FileVault is Off.
+Deferred enablement appears to be active for user 'pro-admin'.",Yes,Managed,Present,varghesesm,Apple,H4TGP1UU1254,Yes,11/19/25 20:27,1/26/25 23:59
+PRO-BAB-MP1,babiggs,Tahoe*,11/19/25 21:11,macOS 15.7.2,root,"MacBook Pro (13-inch, M1, 2020)",FileVault is On.,,Managed,Present,babiggs,Apple,C02F92ZYQ05R,Yes,11/19/25 22:08,2/23/25 23:59
+PRO-LL-M6,halldm4,Tahoe*,9/17/25 7:15,macOS 15.6.1,root,"MacBook Pro (13-inch, M1, 2020)",FileVault is On.,,Managed,Present,halldm4,Apple,C02FM4UAQ05P,Yes,9/19/25 20:33,5/5/24 23:59
+PRO-RH-MP1,rhatoum,Tahoe*,11/19/25 18:29,macOS 26.1.0,root,"MacBook Pro (14-inch, 2021)",FileVault is On.,,Managed,Present,rhatoum,Apple,NL69Q1JXMT,Yes,11/19/25 20:47,7/26/25 23:59
+SEM-H4VJ1HC29R,dunfordb,Tahoe*,11/19/25 19:06,macOS 15.7.2,root,"MacBook Pro (14-inch, 2021)",FileVault is On.,,Managed,Present,dunfordb,Apple,H4VJ1HC29R,Yes,11/19/25 21:28,8/11/25 23:59
+SEM-G00MQH6Y2H,riddlerapp,Tahoe*,11/19/25 16:43,macOS 15.7.2,root,"MacBook Pro (14-inch, 2021)",FileVault is On.,,Managed,Present,riddlerap,Apple,G00MQH6Y2H,Yes,11/19/25 21:26,8/15/25 23:59
+SEM-Q63PN6W3G5,malamphydb,Tahoe*,11/19/25 14:06,macOS 15.7.1,root,"MacBook Pro (16-inch, 2021)",FileVault is On.,,Managed,Present,malamphydb,Apple,Q63PN6W3G5,Yes,11/19/25 21:20,8/16/26 23:59
+PRO-XLPQ43YLFJ,tluckritzmarq@vcu.edu,Tahoe*,11/19/25 13:28,macOS 15.7.1,root,"MacBook Pro (14-inch, 2021)",FileVault is On.,,Managed,Present,tluckritzmarq,Apple,XLPQ43YLFJ,Yes,11/19/25 21:45,1/1/70 0:00
+PRO-912WG-MD1,shared station,Tahoe*,11/19/25 15:57,macOS 15.6.1,root,"iMac (24-inch, M1, 2021)",FileVault is Off.,Yes,Managed,Present,rowsonja,Apple,H4TJ62JQQ6X3,Yes,11/19/25 21:02,1/1/70 0:00
+PRO-AB-MP1,arbell,Tahoe*,11/19/25 14:38,macOS 15.7.1,root,"MacBook Pro (16-inch, 2021)",FileVault is On.,,Managed,Present,arbell,Apple,Y64FC9WX6H,Yes,11/19/25 21:49,8/22/25 23:59
+PRO-LL-M8,loaner 8,Sonoma*,2/18/25 19:28,macOS 14.6.1,root,"MacBook Air (Retina, 13-inch, 2019)",FileVault is On.,,Managed,,msjones,Apple,FVFZP0C7LYWN,Yes,5/14/25 14:48,1/1/70 0:00
+STU-ALC-JPR-MP1,rogersjp2,Tahoe*,11/19/25 15:26,macOS 15.7.1,root,"MacBook Air (M2, 2022)",FileVault is On.,,Managed,Present,rogersjp2,Apple,WF3W3R27QW,Yes,11/19/25 21:29,10/3/25 23:59
+SEM-LCF47WQXGD,spencekd,Tahoe*,11/18/25 23:50,macOS 15.7.1,root,"MacBook Pro (16-inch, 2021)",FileVault is On.,,Managed,Present,spencekd,Apple,LCF47WQXGD,Yes,11/19/25 20:09,10/5/26 23:59
+SEM-W6M4P092L6,sanderss4@vcu.edu,Tahoe*,11/19/25 15:40,macOS 26.1.0,root,"MacBook Pro (16-inch, 2021)",FileVault is On.,,Managed,Present,sanderss4,Apple,W6M4P092L6,Yes,11/19/25 21:37,8/1/25 23:59
+DCE-MM-MP1,mmosavel,Tahoe*,11/19/25 6:38,macOS 15.7.2,root,"MacBook Pro (14-inch, M2 Pro, 2023)",FileVault is On.,,Managed,Present,mmosavel,Apple,G49MG6HQLH,Yes,11/19/25 21:14,3/14/27 23:59
+PRO-LL-M10,loaner 10,Sequoia*,9/12/25 16:09,macOS 15.6.1,root,"MacBook Pro (16-inch, M2 Pro, 2023)",FileVault is On.,,Managed,Present,pro-admin,Apple,K9J77WF0YG,Yes,9/15/25 13:32,5/16/26 23:59
+PRO-QNHPF7RXMC,gilbertta,Tahoe*,11/19/25 15:02,macOS 26.0.1,root,"MacBook Pro (16-inch, M2 Pro, 2023)",FileVault is On.,,Managed,Present,gilbertta,Apple,QNHPF7RXMC,Yes,11/19/25 22:05,7/19/26 23:59
+STU-L5XX3YQY4F,thanielip,Tahoe*,11/19/25 15:01,macOS 15.7.1,root,"MacBook Air (M2, 2022)",FileVault is On.,,Managed,Present,thanielip,Apple,L5XX3YQY4F,Yes,11/19/25 22:13,8/2/27 23:59
+STU-FY237J0F63,duckworthpc,Tahoe*,11/19/25 14:34,macOS 15.7.2,root,"MacBook Air (M2, 2022)",FileVault is On.,,Managed,Present,duckworthpc,Apple,FY237J0F63,Yes,11/19/25 21:44,8/2/27 23:59
+SEM-KHRV9GN25P,maxwellmc,Sequoia*,8/14/25 21:29,macOS 15.5.0,root,"MacBook Air (M2, 2022)",FileVault is On.,,Managed,Present,firthre,Apple,KHRV9GN25P,Yes,8/14/25 20:59,1/1/70 0:00
+SEM-FJ7RLH2LQF,lbbraun,Tahoe*,11/19/25 14:45,macOS 15.7.2,root,"MacBook Air (M2, 2022)",FileVault is On.,,Managed,Present,lbbraun,Apple,FJ7RLH2LQF,Yes,11/19/25 21:52,10/7/27 23:59
+SEM-CYJKWFC2NR,taylorjr22,Tahoe*,11/19/25 20:14,macOS 15.7.1,root,"MacBook Air (M2, 2022)",FileVault is On.,,Managed,Present,taylorjr22,Apple,CYJKWFC2NR,Yes,11/19/25 21:43,10/7/27 23:59
+PRO-LL-M2,loaner 2,Sequoia*,5/2/25 19:09,macOS 15.4.1,root,"MacBook Pro (13-inch, 2018)",FileVault is On.,,Managed,Present,pro-admin,Apple,C02YQ74HLVDD,Yes,5/2/25 19:09,1/1/70 0:00
+DCE-VG-MP1,garlandvw,Tahoe*,11/19/25 8:13,macOS 15.7.2,root,"MacBook Pro (14-inch, Nov 2023) [M3]",FileVault is On.,,Managed,Present,garlandvw,Apple,M9M4J425T6,Yes,11/19/25 20:22,12/12/27 23:59
+PRO-WEK-MP1,weking,Tahoe*,11/19/25 22:06,macOS 15.7.2,root,"MacBook Pro (16-inch, 2019)",FileVault is On.,,Managed,Present,weking,Apple,C02F54BNMD6Q,Yes,11/19/25 22:05,7/8/24 23:59
+PRO-LG-MP1,gastl,Tahoe*,11/19/25 14:58,macOS 15.7.2,root,"MacBook Pro (16-inch, Nov 2023) [M3 Pro]",FileVault is On.,,Managed,Present,gastl,Apple,DRJP4KR2YK,Yes,11/19/25 20:30,12/19/27 23:59
+PRO-WN-MP1,nelsonwc,Tahoe*,11/19/25 20:23,macOS 15.7.2,root,"MacBook Pro (16-inch, Nov 2023) [M3 Pro]",FileVault is On.,,Managed,Present,nelsonwc,Apple,KXVW361PXT,Yes,11/19/25 20:39,4/11/28 23:59
+PRO-LL-M4,loaner 4,Sequoia*,6/26/25 16:40,macOS 15.5.0,root,"MacBook Pro (13-inch, M1, 2020)",FileVault is On.,,Managed,Present,pro-admin,Apple,C02G753AQ05N,Yes,6/26/25 16:40,9/2/24 23:59
+DCE-MFYC-MD1,shared station,Tahoe*,11/17/25 8:52,macOS 15.6.1,root,"iMac (24-inch, 2023) [M3]",FileVault is On.,Yes,Managed,Missing,charlesbrirh,Apple,J9HGDM2312,Yes,11/17/25 22:28,7/3/28 23:59
+SEM-C02FT48TQ05D,pennea,Tahoe*,11/19/25 14:09,macOS 15.7.2,root,"MacBook Pro (13-inch, M1, 2020)",FileVault is On.,,Managed,Present,pennea,Apple,C02FT48TQ05D,Yes,11/19/25 21:30,6/27/25 23:59
+STU-JH9RQX7J4F,moezzis,Tahoe*,11/19/25 8:21,macOS 15.7.2,root,"MacBook Air (13-inch, M3, 2024)",FileVault is On.,,Managed,Present,moezzis,Apple,JH9RQX7J4F,Yes,11/19/25 21:42,8/14/28 23:59
+STU-K29QHPKCQ7,mzcoffey,Tahoe*,11/19/25 16:31,macOS 15.7.2,root,"MacBook Air (13-inch, M3, 2024)",FileVault is On.,,Managed,Present,mzcoffey,Apple,K29QHPKCQ7,Yes,11/19/25 21:18,8/14/28 23:59
+DCE-AH-MP2,hamiltonae,Tahoe*,11/19/25 20:45,macOS 15.7.2,root,"MacBook Pro (16-inch, Nov 2023) [M3 Pro]",FileVault is On.,,Managed,Present,hamiltonae,Apple,JN9Q2KKFF2,Yes,11/19/25 22:12,8/13/28 23:59
+DES-C79W69V3F3,doniganmb,Tahoe*,11/19/25 13:33,macOS 15.7.1,root,"MacBook Air (15-inch, M3, 2024)",FileVault is On.,,Managed,Present,doniganmb,Apple,C79W69V3F3,Yes,11/19/25 21:51,1/1/70 0:00
+DES-J0H712157H,conrathb,Tahoe*,11/18/25 14:27,macOS 15.7.2,root,"MacBook Air (15-inch, M3, 2024)",FileVault is On.,,Managed,Present,conrathb,Apple,J0H712157H,Yes,11/18/25 20:19,8/5/28 23:59
+PRO-RH-MD1,rhatoum,Tahoe*,11/19/25 19:09,macOS 26.1.0,root,Mac Studio,FileVault is On.,,Managed,Present,rhatoum,Apple,G0WLP7L4VK,Yes,11/19/25 22:10,5/2/25 23:59
+SEM-J7Y036J500,osheasl,Tahoe*,11/19/25 0:20,macOS 15.7.2,root,"MacBook Air (13-inch, M3, 2024)",FileVault is On.,,Managed,Present,osheasl,Apple,J7Y036J500,Yes,11/19/25 14:02,9/6/28 23:59
+STU-KQY0P2YMWC,andersoni2,Tahoe*,11/19/25 14:52,macOS 26.1.0,root,"MacBook Air (13-inch, M3, 2024)",FileVault is On.,,Managed,Present,andersoni2,Apple,KQY0P2YMWC,Yes,11/19/25 21:33,1/24/29 23:59
+STU-MJF65WXX76,holtsmithmd,Tahoe*,11/19/25 19:02,macOS 15.7.2,root,"MacBook Air (13-inch, M3, 2024)",FileVault is On.,,Managed,Present,holtsmithmd,Apple,MJF65WXX76,Yes,11/19/25 21:24,1/24/29 23:59
+STU-F0WXL276YG,rafusese,Tahoe*,11/18/25 17:13,macOS 15.7.1,root,"MacBook Air (13-inch, M3, 2024)",FileVault is On.,,Managed,Present,rafusese,Apple,F0WXL276YG,Yes,11/18/25 17:12,1/26/29 23:59
+STU-MHG607JVKQ,willisnd,Tahoe*,11/19/25 20:09,macOS 15.7.1,root,"MacBook Air (13-inch, M3, 2024)",FileVault is On.,,Managed,Present,willisnd,Apple,MHG607JVKQ,Yes,11/19/25 22:08,1/26/29 23:59
+STU- L32HN6F6FJ,lewisms,Sequoia*,5/30/25 15:34,macOS 15.5,root,"MacBook Air (13-inch, M3, 2024)",FileVault is On.,,Managed,Present,lewisms,Apple,L32HN6F6FJ,Yes,5/31/25 14:58,1/26/29 23:59
+SEM-GQY9YDV73C,bortonc,Tahoe*,10/30/25 23:13,macOS 15.7.1,root,"MacBook Air (15-inch, M4, 2025)",FileVault is On.,,Managed,Present,bortonc,Apple,GQY9YDV73C,Yes,11/1/25 20:31,3/26/29 23:59
+SEM-C02XH4SUJHD3,doddjd@vcu.edu,Sequoia*,11/19/25 14:25,macOS 15.7.2,root,"MacBook Pro (13-inch, 2018)","FileVault is Off.
+Deferred enablement appears to be active for user 'pro-admin'.",,Managed,Present,doddjd,Apple,C02XH4SUJHD3,Yes,11/19/25 22:16,1/1/70 0:00
+STU-FTQKYH3C97,kvelentzas,Tahoe*,11/16/25 18:07,macOS 15.7.1,root,"MacBook Air (15-inch, M4, 2025)",FileVault is On.,,Managed,Present,kvelentzas,Apple,FTQKYH3C97,Yes,11/17/25 4:05,4/27/29 23:59
+PRO-LL-M7,bjwarren,Tahoe*,11/19/25 9:56,macOS 15.7.2,root,"MacBook Air (M2, 2022)",FileVault is On.,,Managed,Present,bjwarren,Apple,F6JJXD165G,Yes,11/19/25 20:27,1/1/70 0:00
+AOIT-Shop,shared station,Tahoe*,10/17/25 4:52,macOS 26.0,root,Mac mini (2024) M4,FileVault is On.,Yes,Managed,Present,firthre,Apple,GYCMFVJD6F,Yes,10/17/25 9:37,5/20/26 23:59
+PRO-MJGXVQLG9X,hawthorneka,Tahoe*,11/19/25 18:49,macOS 15.7.2,root,"MacBook Air (13-inch, M4, 2025)",FileVault is On.,,Managed,Present,hawthorneka,Apple,MJGXVQLG9X,Yes,11/19/25 22:17,5/18/29 23:59
+PRO-CGW1M9K7QJ,houstond,Tahoe*,11/19/25 14:46,macOS 15.7.1,root,"MacBook Air (15-inch, M4, 2025)",FileVault is On.,,Managed,Present,houstond,Apple,CGW1M9K7QJ,Yes,11/19/25 22:01,5/18/29 23:59
+PRO-GHH3KW4WNQ,rogersmy@vcu.edu,Tahoe*,11/19/25 12:14,macOS 15.7.2,root,"MacBook Air (15-inch, M4, 2025)",FileVault is On.,,Managed,Present,rogersmy,Apple,GHH3KW4WNQ,Yes,11/19/25 21:12,5/18/29 23:59
+PRO-J34H02Q003,atarroyo,Tahoe*,11/19/25 13:26,macOS 15.7.2,root,"MacBook Air (15-inch, M4, 2025)",FileVault is On.,,Managed,Present,atarroyo,Apple,J34H02Q003,Yes,11/19/25 22:01,5/18/29 23:59
+SEM-LC46G7KXVH,gregoryad,Tahoe*,11/19/25 7:44,macOS 15.7.2,root,"MacBook Air (13-inch, M4, 2025)",FileVault is On.,,Managed,Present,gregoryad,Apple,LC46G7KXVH,Yes,11/19/25 18:42,5/14/29 23:59
+PRO-HHXTP2R4CT,handelsmaneh,Tahoe*,11/19/25 14:27,macOS 15.7.2,root,"MacBook Air (13-inch, M4, 2025)",FileVault is On.,,Managed,Present,handelsmaneh,Apple,HHXTP2R4CT,Yes,11/19/25 22:01,7/9/29 23:59
+PRO-J2D3JXPGLC,elliottkl,Tahoe*,11/19/25 14:27,macOS 15.7.2,root,"MacBook Air (13-inch, M4, 2025)",FileVault is On.,,Managed,Present,elliottkl,Apple,J2D3JXPGLC,Yes,11/19/25 21:25,7/20/29 23:59
